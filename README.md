@@ -91,7 +91,7 @@ Python-based software to monitor soil conditions.</p>
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
