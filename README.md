@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Azman Sikder! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=CS+%26+Engineering+Student;Machine+Learning+%26+Deep+Learning+Researcher;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=a9b7c6&background=2b2b2b&center=true&vCenter=true&width=600&lines=CS+%26+Engineering+Student;Machine+Learning+%26+Deep+Learning+Researcher;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
   <br/>
   
@@ -57,22 +57,15 @@ I am a Computer Science and Engineering student and active researcher building a
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=azmansikder&theme=darcula&hide_border=false" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=azmansikder&limit=5&theme=darcula&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=azmansikder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azmansikder&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="GitHub Trophies" />
 </div>
 
 ---
