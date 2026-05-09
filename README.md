@@ -60,7 +60,7 @@ I am a Computer Science and Engineering student and active researcher building a
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3><b><a href="https://github.com/azmansikder/think-together">ThinkTogether: A research collaborative platform</a></b></h3>
+        <h3><b><a href="https://github.com/azmansikder/think-together">ThinkTogether: A research collaboration platform</a></b></h3>
         <p>Think Together is a Django-based collaboration platform designed to bridge the gap between students and researchers. It allows users to register based on their roles, create and browse research projects, and communicate seamlessly via a built-in messaging system.</p>
         <p><i>Python • HTML • CSS</i></p>
       </td>
