@@ -60,14 +60,15 @@ I am a Computer Science and Engineering student and active researcher building a
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3><b><a href="https://github.com/azmansikder/YOUR_REPO_LINK_1">🛡️ Project Title 1</a></b></h3>
-        <p>A brief description of your machine learning or cybersecurity project. Explain what problem it solves and what the final outcome was.</p>
-        <p><i>Python • TensorFlow • Scikit-Learn</i></p>
+        <h3><b><a href="https://github.com/azmansikder/think-together">ThinkTogether: A research collaborative platform</a></b></h3>
+        <p>Think Together is a Django-based collaboration platform designed to bridge the gap between students and researchers. It allows users to register based on their roles, create and browse research projects, and communicate seamlessly via a built-in messaging system.</p>
+        <p><i>Python • HTML • CSS</i></p>
       </td>
       <td width="50%" valign="top">
-        <h3><b><a href="https://github.com/azmansikder/YOUR_REPO_LINK_2">🧠 Project Title 2</a></b></h3>
-        <p>Another impressive project description. Mention the specific algorithms, datasets, or architecture used to achieve your results.</p>
-        <p><i>C++ • OpenCV • PyTorch</i></p>
+        <h3><b><a href="https://github.com/azmansikder/Salinity-Sentinel-A-Smart-Soil-Monitoring-System-for-Coastal-Bangladesh">Soil Sentinel: A Smart Soil Monitoring System for Coastal Bangladesh</a></b></h3>
+        <p>Salinity Sentinel is a smart, low-cost soil monitoring system that uses sensors and
+Python-based software to monitor soil conditions.</p>
+        <p><i>Python • HTML • JavaScript • CSS</i></p>
       </td>
     </tr>
   </table>
