@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Azman Sikder! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"></h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=a9b7c6&background=2b2b2b&center=true&vCenter=true&width=600&lines=CS+%26+Engineering+Student;Machine+Learning+%26+Deep+Learning+Researcher;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&background=0A192F&center=true&vCenter=true&width=600&lines=CS+%26+Engineering+Student;Machine+Learning+%26+Deep+Learning+Researcher;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
   <br/>
   
@@ -54,17 +54,37 @@ I am a Computer Science and Engineering student and active researcher building a
 
 ---
 
-## 📈 GitHub Metrics
+## 📂 Highlighted Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=azmansikder&theme=darcula&hide_border=false" width="48%" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><b><a href="https://github.com/azmansikder/YOUR_REPO_LINK_1">🛡️ Project Title 1</a></b></h3>
+        <p>A brief description of your machine learning or cybersecurity project. Explain what problem it solves and what the final outcome was.</p>
+        <p><i>Python • TensorFlow • Scikit-Learn</i></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3><b><a href="https://github.com/azmansikder/YOUR_REPO_LINK_2">🧠 Project Title 2</a></b></h3>
+        <p>Another impressive project description. Mention the specific algorithms, datasets, or architecture used to achieve your results.</p>
+        <p><i>C++ • OpenCV • PyTorch</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmansikder&bg_color=0A192F&color=ffffff&line=2196F3&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmansikder&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=azmansikder&theme=darcula&hide_border=false" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=azmansikder&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="48%" alt="GitHub Trophies" />
 </div>
 
